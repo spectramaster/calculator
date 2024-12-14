@@ -22,4 +22,4 @@ def index():
 if __name__ == '__main__':
     app.run(debug=True, host='127.0.0.1', port=5000)
 
-    #Come on, you can do it!
+    #一次伟大的尝试，虽然编写的程序十分简单，但是我相信我能够坚持下去，越走越远的。
